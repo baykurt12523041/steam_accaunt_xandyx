@@ -1,18 +1,32 @@
-
 {
   "game_name": "Resident Evil Requiem",
   "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1772587704",
   "steam_app_id": "3764200",
   "accounts": [
     {
-      "account_id": 1,
       "username": "70xplay_com_re9b",
-      "password": "70xPlAy.Com"
+      "password": "70xPlAy.Com",
+      "account_id": 1
     },
-     {
-      "account_id": 2,
+    {
       "username": "bitvl50415",
-      "password": "wvmwj37119"
+      "password": "wvmwj37119",
+      "account_id": 2
+    },
+    {
+      "username": "aigamer_cn_re9_4",
+      "password": "caIgamEr.CN",
+      "account_id": 3
+    },
+    {
+      "username": "caigamer_cn_re9_2",
+      "password": "caiGamer.cn",
+      "account_id": 4
+    },
+    {
+      "username": "caigamer_cn_re9_5",
+      "password": "cAigaMeR.Cn",
+      "account_id": 5
     }
   ]
 }
