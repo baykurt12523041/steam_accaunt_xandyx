@@ -1,12 +1,12 @@
 {
   "game_name": "Dune: Awakening",
-  "steam_app_id": "",
-  "cover_image": "1172710",
+  "steam_app_id": "1172710",
+  "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg?t=1775043309",
   "accounts": [
     {
-      "account_id": 1,
       "username": "epqms10529",
-      "password": "0slzndWGomI12b"
+      "password": "0slzndWGomI12b",
+      "account_id": 1
     }
   ]
 }
